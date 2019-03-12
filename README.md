@@ -32,3 +32,6 @@ tambahdatadosen
 
 Matkul
 ![alttext](https://github.com/Anandarafi/Modul7-PHP-AnandarafiAmanullah-XRPL4-07/blob/master/matkul.PNG)
+
+UpdateData
+![alttext](https://github.com/Anandarafi/Modul7-PHP-AnandarafiAmanullah-XRPL4-07/blob/master/updateData.PNG)
