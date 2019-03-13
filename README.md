@@ -48,6 +48,7 @@ SOAL
 
 Jawab 
 1. ![alttext](https://github.com/Anandarafi/Modul7-PHP-AnandarafiAmanullah-XRPL4-07/blob/master/ini%20contoh%20dari%20kode%20konect%20pada%20php.PNG)
+{$connect = mysqli_connect($host, $username, $pass, $db);} kode tersebut digunakan untuk mengkonekkan mysqli_connect dengan parameter variabel hos, variabel username, dvariabel pass, dan variabel database.
 
 2. cara membuat database yang mudah saya membuka link 'localhost/phpmyadmin/' di website tetapis aya menghidupkan mysql dan apache di xampp. dan saya memilih menubar database dan create database dengan nama yang disesuaikan nama database di visual studio(editor biasa) ..Contoh kode $db = "db_universitas" dan di localhost/phpadminnya disesuaikan databasenya dengan db_universitas supaya berhasil konect.
 
